@@ -3,7 +3,7 @@
 - 🌱 I'm just beginning my journey into web development, eager to build and design engaging online experiences. I'm excited to learn and grow in this dynamic field.
 - 📫 ritika0123y@gmail.com
 <div id="header" align="center">
-<img src="images/young-woman-working-laptop-home-vector-illustration-flat-style_1142-112279">
+<img src="images/girl.png" width="100">
 </div>
 
 
